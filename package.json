@@ -1,0 +1,25 @@
+{
+  "name": "arc-lib",
+  "version": "0.0.1",
+  "description": "ARC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://anyuzer@github.com/anyuzer/arc-lib.git"
+  },
+  "author": "Ian Reid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyuzer/arc-lib/issues"
+  },
+  "homepage": "https://github.com/anyuzer/arc-lib#readme",
+  "dependencies": {
+    "arc-array": "^2.0.3",
+    "arc-check": "^1.0.2",
+    "arc-is": "^1.0.2",
+    "arc-object": "^1.0.3"
+  }
+}
