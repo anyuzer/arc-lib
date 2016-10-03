@@ -20,7 +20,7 @@
     "arc-array": "^2.1.0",
     "arc-check": "^1.0.2",
     "arc-events": "^1.0.0",
-    "arc-is": "^1.0.4",
+    "arc-is": "^1.0.5",
     "arc-object": "^1.0.3"
   }
 }
