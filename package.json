@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/anyuzer/arc-lib#readme",
   "dependencies": {
-    "arc-array": "3.2.0",
-    "arc-check": "^1.0.2",
-    "arc-events": "^1.0.0",
-    "arc-is": "^1.0.5",
-    "arc-object": "1.2.0"
+    "arc-array": "3.2.1",
+    "arc-check": "1.0.3",
+    "arc-events": "1.1.1",
+    "arc-is": "1.0.5",
+    "arc-object": "1.2.1"
   }
 }
