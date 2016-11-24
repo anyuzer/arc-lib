@@ -1,6 +1,6 @@
 {
   "name": "arc-lib",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "ARC",
   "main": "index.js",
   "scripts": {
