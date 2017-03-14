@@ -1,6 +1,6 @@
 {
   "name": "arc-lib",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "ARC",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "arc-check": "1.0.3",
     "arc-events": "1.1.2",
     "arc-is": "1.0.5",
-    "arc-object": "1.4.0"
+    "arc-object": "1.5.0"
   }
 }
