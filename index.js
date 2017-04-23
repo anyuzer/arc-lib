@@ -3,5 +3,6 @@ module.exports = {
     array:require('arc-array'),
     object:require('arc-object'),
     check:require('arc-check'),
-    events:require('arc-events')
+    events:require('arc-events'),
+    date:require('arc-date')
 };
