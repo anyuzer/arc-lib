@@ -4,5 +4,6 @@ module.exports = {
     object:require('arc-object'),
     check:require('arc-check'),
     events:require('arc-events'),
-    date:require('arc-date')
+    date:require('arc-date'),
+    regexp:require('arc-reg-exp')
 };
