@@ -5,5 +5,6 @@ module.exports = {
     check:require('arc-check'),
     events:require('arc-events'),
     date:require('arc-date'),
-    regexp:require('arc-reg-exp')
+    regexp:require('arc-reg-exp'),
+    router:require('arc-router')
 };
