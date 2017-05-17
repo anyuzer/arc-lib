@@ -1,10 +1,10 @@
 module.exports = {
     is:require('arc-is'),
-    array:require('arc-array'),
-    object:require('arc-object'),
-    check:require('arc-check'),
-    events:require('arc-events'),
-    date:require('arc-date'),
-    regexp:require('arc-reg-exp'),
-    router:require('arc-router')
+    ArcArray:require('arc-array'),
+    ArcObject:require('arc-object'),
+    ArcCheck:require('arc-check'),
+    ArcEvents:require('arc-events'),
+    ArcDate:require('arc-date'),
+    ArcRegExp:require('arc-reg-exp'),
+    ArcRouter:require('arc-router')
 };
