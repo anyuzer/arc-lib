@@ -4,18 +4,19 @@ A convenience wrapper around the ARC Library classes
 
 ## Install
 ```
-$ npm install arc-reg-exp --save
+$ npm install arc-lib --save
 ```
 
 ## Wraps
-* arc-is
-* arc-array
-* arc-check
-* arc-date
-* arc-events
-* arc-object
-* arc-reg-exp
-* arc-router
+* [arc-is](https://github.com/anyuzer/arc-is)
+* [arc-array](https://github.com/anyuzer/arc-array)
+* [arc-check](https://github.com/anyuzer/arc-check)
+* [arc-date](https://github.com/anyuzer/arc-date)
+* [arc-events](https://github.com/anyuzer/arc-events)
+* [arc-object](https://github.com/anyuzer/arc-object)
+* [arc-reg-exp](https://github.com/anyuzer/arc-reg-exp)
+* [arc-router](https://github.com/anyuzer/arc-router)
+* [arc-hash](https://github.com/anyuzer/arc-hash)
 
 ## Exports
 ```js
@@ -27,7 +28,8 @@ $ npm install arc-reg-exp --save
     ArcEvents,
     ArcObject,
     ArcRegExp,
-    ArcRouter
+    ArcRouter,
+    ArcHash
 }
 ```
 

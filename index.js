@@ -6,5 +6,6 @@ module.exports = {
     ArcEvents:require('arc-events'),
     ArcDate:require('arc-date'),
     ArcRegExp:require('arc-reg-exp'),
-    ArcRouter:require('arc-router')
+    ArcRouter:require('arc-router'),
+    ArcHash:require('arc-hash')
 };
