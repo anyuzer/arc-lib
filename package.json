@@ -24,7 +24,7 @@
     "arc-is": "1.0.5",
     "arc-object": "2.1.0",
     "arc-reg-exp": "1.0.0",
-    "arc-router": "1.1.1",
+    "arc-router": "1.1.2",
     "arc-hash": "1.0.1"
   }
 }
