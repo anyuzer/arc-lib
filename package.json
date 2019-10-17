@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/anyuzer/arc-lib#readme",
   "dependencies": {
-    "arc-array": "4.0.1",
+    "arc-array": "4.1.0",
     "arc-check": "1.2.0",
-    "arc-date": "2.1.0",
+    "arc-date": "2.1.1",
     "arc-events": "2.0.0",
     "arc-is": "1.0.5",
     "arc-object": "3.1.0",
