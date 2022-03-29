@@ -25,7 +25,7 @@
     "arc-events": "^2.0.2",
     "arc-hash": "^2.0.0",
     "arc-is": "^1.0.8",
-    "arc-object": "^3.1.1",
+    "arc-object": "^3.1.2",
     "arc-reg-exp": "^1.0.1",
     "arc-router": "^1.2.1",
     "arc-scheduler": "^1.0.0"
