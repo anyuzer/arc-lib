@@ -28,7 +28,7 @@
     "arc-is": "^2.0.0",
     "arc-object": "^4.0.0",
     "arc-reg-exp": "^2.0.0",
-    "arc-router": "^3.0.0",
+    "arc-router": "^3.0.1",
     "arc-scheduler": "^2.0.0"
   }
 }
