@@ -32,6 +32,21 @@ export {
     Errors,
 };
 
+// Re-export submodule **types** so consumers can import from 'arc-lib'
+// (Type-only export avoids duplicate value exports like ArcRouter.)
+export type * from 'arc-router';
+export type * from 'arc-object';
+export type * from 'arc-array';
+export type * from 'arc-check';
+export type * from 'arc-date';
+export type * from 'arc-events';
+export type * from 'arc-hash';
+export type * from 'arc-logger';
+export type * from 'arc-promise-queue';
+export type * from 'arc-reg-exp';
+export type * from 'arc-validate';
+export type * from 'arc-errors';
+
 // Default bundle
 declare const ArcLib: {
     is: typeof is;
