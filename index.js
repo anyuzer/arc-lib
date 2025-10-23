@@ -48,7 +48,6 @@ export { PromiseQueue };
 export { ArcRegExp };
 export { ArcRouter };
 export { validateTypes }; // function (validateTypes)
-export { Errors };   // grouped error utilities
 
 // Slim default bundle: one entry per library
 const ArcLib = {
