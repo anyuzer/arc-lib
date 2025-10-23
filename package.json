@@ -24,7 +24,7 @@
     "arc-array": "^6.0.0",
     "arc-check": "^2.1.0",
     "arc-date": "^4.0.0",
-    "arc-errors": "^1.0.1",
+    "arc-errors": "^1.0.2",
     "arc-events": "^4.0.0",
     "arc-hash": "^4.0.0",
     "arc-is": "^2.1.0",
