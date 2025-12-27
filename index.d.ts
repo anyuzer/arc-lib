@@ -47,6 +47,16 @@ export type * from 'arc-reg-exp';
 export type * from 'arc-validate';
 export type * from 'arc-errors';
 
+export {
+    throwByStatus,
+    BadRequest,
+    Unauthorized,
+    NotFound,
+    RateLimit,
+    ServerError,
+    AuthRedirect
+} from 'arc-errors';
+
 // Default bundle
 declare const ArcLib: {
     is: typeof is;

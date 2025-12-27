@@ -28,11 +28,11 @@
     "arc-events": "^4.0.0",
     "arc-hash": "^4.0.0",
     "arc-is": "^2.1.0",
-    "arc-logger": "^1.0.0",
+    "arc-logger": "^1.0.1",
     "arc-object": "^5.1.0",
     "arc-promise-queue": "^1.0.0",
     "arc-reg-exp": "^3.0.0",
     "arc-router": "^4.0.0",
-    "arc-validate": "^1.0.0"
+    "arc-validate": "^1.0.1"
   }
 }
